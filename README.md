@@ -1,4 +1,4 @@
-# Discord_Userid-All-Viewer
+# Discord_Userid-All-Dumper
 This work on the discord.  This bot display guild member (server member) user id
 
 # Link
