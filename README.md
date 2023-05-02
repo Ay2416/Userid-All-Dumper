@@ -1,5 +1,5 @@
 # Discord_Userid-All-Dumper
-This work on the discord.  This bot display guild member (server member) user id
+This work on the discord.  This bot dump csv file guild member (server member) user id.
 
 # Link
 
